@@ -4,4 +4,4 @@ hello hello hello
 
 printf("hello world");
 
-bye bye
+console.log("bye bye");
